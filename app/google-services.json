@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "79892651108",
+    "project_id": "oxfordapp-d601b",
+    "storage_bucket": "oxfordapp-d601b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79892651108:android:7236ecc53b37de63de9371",
+        "android_client_info": {
+          "package_name": "com.example.finasprintsproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79892651108-6g0ojbl6lle34296lhhgmjf56gddn26q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKZ7sPjYKwvENKYqIvJ6iIf0huetGD41E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79892651108-6g0ojbl6lle34296lhhgmjf56gddn26q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
